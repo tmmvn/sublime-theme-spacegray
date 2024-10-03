@@ -1,9 +1,0 @@
-Thanks for installing Spacegray!
-
-To select a theme call _UI: Select Theme_ from Command Palette.
-
-To select a color scheme call _UI: Select Color Scheme_ from Command Palette.
-
-Spacegray comes in different flavors, based on Base16 color schemes.
-You can choose whichever flavor you like, but don't forget to change *both*
-color scheme and UI theme so they match.
